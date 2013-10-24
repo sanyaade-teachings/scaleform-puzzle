@@ -279,7 +279,11 @@
 				{
 					piece.gotoAndPlay("gathered");
 					var rect:Rectangle = piece.getRect(root);
-					ExternalInterface.call("CreateEffect","AnarchyEffect", rect.left + hpzGlobal.PUZZLE_SIZE_X*0.5,rect.top + hpzGlobal.PUZZLE_SIZE_Y*0.5);
+					
+					if (ExternalInterface.available)
+					{
+						ExternalInterface.call("CreateEffect", "AnarchyEffect", rect.left + hpzGlobal.PUZZLE_SIZE_X * 0.5, rect.top + hpzGlobal.PUZZLE_SIZE_Y * 0.5);
+					}
 				}
 				
 				setState(hpzMainState.REFRESH,500);
