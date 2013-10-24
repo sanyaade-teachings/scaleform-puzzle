@@ -13,8 +13,9 @@
 /Tools/*
 AndroidTemp/
 /Source/Vision/Samples/Engine/FileServe/vFileServeHost.txt
-Assets/AssetMgmt_data/transformed/
-Assets/AssetMgmt_data/thumbnails/
+AssetMgmt_data/transformed/
+AssetMgmt_data/thumbnails/
+/_Reference/
 
 git_*.bat
 _viminfo
