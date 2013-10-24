@@ -3,8 +3,8 @@ package havok.puzzle
 	import flash.display.MovieClip;
 	import flash.events.Event;
 	import flash.events.TimerEvent;
-	import flash.utils.Timer;
 	import flash.utils.*;
+	
 	/**
 	 * ...
 	 * @author minsu.kim
@@ -25,7 +25,7 @@ package havok.puzzle
 		
 		private var targetClip:MovieClip;
 		
-		public function begin(targetClip:MovieClip,oriX:int, oriY:int, destX:int, destY:int, duration:int)
+		public function begin(targetClip:MovieClip,oriX:int, oriY:int, destX:int, destY:int, duration:int):void
 		{
 			this.oriX = oriX;
 			this.oriY = oriY;

@@ -2,7 +2,7 @@ package havok.puzzle
 {
 	/**
 	 * ...
-	 * @author ...
+	 * @author minsu.kim
 	 */
 	public class hpzGlobal 
 	{		

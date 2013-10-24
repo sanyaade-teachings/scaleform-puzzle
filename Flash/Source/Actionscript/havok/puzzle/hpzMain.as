@@ -16,8 +16,7 @@
 	/**
 	 * PuzzleMain
 	 * @author minsu.kim
-	 */
-	
+	 */	
 	public class hpzMain extends MovieClip
 	{		
 		// static instance
@@ -86,14 +85,14 @@
 			{
 				m_countsPerTypes[1 << i] = 0;
 			}
-			
+
 			scoreField.Score = 0;
-						
+
 			for (i = 0; i < hpzPuzzleType.TYPE_COUNT; ++i)
 			{
 				m_alignedFlag += 1 << i;
 			}	
-			InitailzePuzzlePieces();
+			InitializePuzzlePieces();
         }
 		
 		private function removeFromStage(event:Event):void
@@ -142,7 +141,7 @@
 				m_countsPerTypes[puzzlePiece.Type]++;
 		}
 		
-		private function InitailzePuzzlePieces()
+		private function InitializePuzzlePieces()
 		{
 			var recreateCount:int = 0;
 			for ( var col:int = 0; col < hpzGlobal.COL_COUNT; ++col)

@@ -106,7 +106,7 @@
 			gotoAndPlay("idle");
 		}
 		
-		private function loadIconComplete (event:Event) : void
+		private function loadIconComplete(event:Event):void
 		{
 			var bitmap:Bitmap = event.target.content as Bitmap;
 			event.target.content.x = -hpzGlobal.PUZZLE_SIZE_X / 2;
@@ -114,7 +114,7 @@
 			(this.getChildByName("puzzleImageSlot") as MovieClip).addChild(bitmap);
 		}
 		
-		public function setPosition(xPos:int, yPos:int, duration:int)
+		public function setPosition(xPos:int, yPos:int, duration:int):void
 		{
 			if (duration == 0)
 			{

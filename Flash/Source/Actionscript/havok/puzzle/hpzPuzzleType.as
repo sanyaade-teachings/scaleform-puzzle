@@ -1,9 +1,10 @@
 ﻿package havok.puzzle 
 {
 	import flash.utils.Dictionary;
+
 	/**
 	 * ...
-	 * @author ...
+	 * @author minsu.kim
 	 */
 	public class hpzPuzzleType 
 	{
@@ -21,7 +22,7 @@
 		private static var imageInitialized:Boolean = false;
 		private static var imagePair:Dictionary = new Dictionary();
 				
-		static function GetImageByType(type:int):String
+		public static function GetImageByType(type:int):String
 		{
 			if (imageInitialized == false)
 			{

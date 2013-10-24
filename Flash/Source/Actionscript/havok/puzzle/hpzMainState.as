@@ -2,7 +2,7 @@ package havok.puzzle
 {
 	/**
 	 * ...
-	 * @author ...
+	 * @author minsu.kim
 	 */
 	public class hpzMainState 
 	{
@@ -13,5 +13,4 @@ package havok.puzzle
 		public static const ARRANGE:int = 4;
 		public static const ARRANGE_FINISH:int = 5;
 	}
-
 }
