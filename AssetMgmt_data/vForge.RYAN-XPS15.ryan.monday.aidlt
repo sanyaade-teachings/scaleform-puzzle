@@ -1,0 +1,11 @@
+textures/flare_4.dds	textures/flare_4.dds	sRGB=false
+textures/fog_group.dds	textures/fog_group.dds	sRGB=false
+textures/glow.dds	textures/glow.dds	sRGB=false
+textures/graylookuptable.dds	textures/graylookuptable.dds	sRGB=false
+textures/mousenorm.tga	textures/mousenorm.tga	sRGB=false
+textures/puzzlepieces/ai.png	textures/puzzlepieces/ai.png	sRGB=false
+textures/puzzlepieces/animation.png	textures/puzzlepieces/animation.png	sRGB=false
+textures/puzzlepieces/physics.png	textures/puzzlepieces/physics.png	sRGB=false
+textures/puzzlepieces/projectanarchy.png	textures/puzzlepieces/projectanarchy.png	sRGB=false
+textures/puzzlepieces/vision.png	textures/puzzlepieces/vision.png	sRGB=false
+textures/spotlight.dds	textures/spotlight.dds	sRGB=false
