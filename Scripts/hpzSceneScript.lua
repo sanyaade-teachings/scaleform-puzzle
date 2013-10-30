@@ -13,7 +13,7 @@ function OnAfterSceneLoaded()
 
   --load the havok movie
   
-  mainMovie = Scaleform:LoadMovie("Flash/Bin/HavokPuzzle.swf", 0, 0)
+  mainMovie = Scaleform:LoadMovie("Flash/bin/HavokPuzzle.swf", 0, 0)
   Scaleform:SetAbsoluteCursorPositioning(true)
   
   GUI:LoadResourceFile("GUI/MenuSystem.xml")

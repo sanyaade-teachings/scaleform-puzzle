@@ -74,7 +74,7 @@
 		{
 			var url:URLRequest = new URLRequest("../../Textures/PuzzlePieces/" + hpzPuzzleType.GetImageByType(Type));
 			imageLoader.load(url);
-			imageLoader.contentLoaderInfo.addEventListener(Event.COMPLETE, loadIconComplete,false,0,true);
+			imageLoader.contentLoaderInfo.addEventListener(Event.COMPLETE, loadIconComplete, false, 0, true);
 		}
 		
 		public function onCursorDown(event:Event):void

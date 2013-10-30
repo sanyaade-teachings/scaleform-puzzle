@@ -1,281 +1,11 @@
 {
     "Configuration": {
-        "Name": "Assets",
+        "Name": "scaleform-puzzle",
         "FormatVersion": 2,
-        "LastEditTime": 1381382090271245000
+        "LastEditTime": 1383126413916473600
     },
     "Assets": {
-        "bin/image/ai.dds": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 3440096699,
-                "TimeStamp": 1381384377409234800,
-                "LastEditTime": 1381386726858845800
-            },
-            "Texture": {
-                "FileFormat": "DDS",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/ai.png": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 2168420699,
-                "TimeStamp": 1380169047775350300,
-                "LastEditTime": 1381386726868846800
-            },
-            "Texture": {
-                "FileFormat": "PNG",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/anarchy.dds": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 2556111250,
-                "TimeStamp": 1381384386919234800,
-                "LastEditTime": 1381386726891849100
-            },
-            "Texture": {
-                "FileFormat": "DDS",
-                "Width": 214,
-                "Height": 215,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/anarchy.png": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 4231300623,
-                "TimeStamp": 1380169047735342300,
-                "LastEditTime": 1381386726900850000
-            },
-            "Texture": {
-                "FileFormat": "PNG",
-                "Width": 214,
-                "Height": 215,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/animStudio.dds": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 1389644433,
-                "TimeStamp": 1381384393621234800,
-                "LastEditTime": 1381386726911851100
-            },
-            "Texture": {
-                "FileFormat": "DDS",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/animStudio.png": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 1827258100,
-                "TimeStamp": 1380169047788352900,
-                "LastEditTime": 1381386726917851700
-            },
-            "Texture": {
-                "FileFormat": "PNG",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/physics.dds": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 1313352438,
-                "TimeStamp": 1381384400829234800,
-                "LastEditTime": 1381386726925852500
-            },
-            "Texture": {
-                "FileFormat": "DDS",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/physics.png": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 1020966032,
-                "TimeStamp": 1380169047729341100,
-                "LastEditTime": 1381386726931853100
-            },
-            "Texture": {
-                "FileFormat": "PNG",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/vision.dds": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 893961903,
-                "TimeStamp": 1381384406314234800,
-                "LastEditTime": 1381386726938853800
-            },
-            "Texture": {
-                "FileFormat": "DDS",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "bin/image/vision.png": {
-            "AssetType": "Texture",
-            "Common": {
-                "Tags": "__NEW_ASSET__",
-                "Dependencies": [
-
-                ],
-                "Variants": [
-
-                ]
-            },
-            "File": {
-                "Hash": 3412599538,
-                "TimeStamp": 1380169047770349300,
-                "LastEditTime": 1381386726945854500
-            },
-            "Texture": {
-                "FileFormat": "PNG",
-                "Width": 80,
-                "Height": 80,
-                "HasAlpha": true,
-                "sRGB": false
-            },
-            "Transformations": {
-                "TemplateName": "Default"
-            }
-        },
-        "Flare_4.dds": {
+        "Textures/Flare_4.dds": {
             "AssetType": "Texture",
             "Common": {
                 "Tags": "__NEW_ASSET__",
@@ -288,8 +18,8 @@
             },
             "File": {
                 "Hash": 3402051952,
-                "TimeStamp": 1375779477376434200,
-                "LastEditTime": 1381217775845453400
+                "TimeStamp": 1382582347633022200,
+                "LastEditTime": 1383122704541143400
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -302,7 +32,7 @@
                 "TemplateName": "Default"
             }
         },
-        "Fog_Group.dds": {
+        "Textures/Fog_Group.dds": {
             "AssetType": "Texture",
             "Common": {
                 "Tags": "__NEW_ASSET__",
@@ -315,8 +45,8 @@
             },
             "File": {
                 "Hash": 4062373857,
-                "TimeStamp": 1375779477427437200,
-                "LastEditTime": 1381217775869453400
+                "TimeStamp": 1382582347628022200,
+                "LastEditTime": 1383122705617251000
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -329,7 +59,7 @@
                 "TemplateName": "Default"
             }
         },
-        "Glow.dds": {
+        "Textures/Glow.dds": {
             "AssetType": "Texture",
             "Common": {
                 "Tags": "__NEW_ASSET__",
@@ -342,8 +72,8 @@
             },
             "File": {
                 "Hash": 3387983511,
-                "TimeStamp": 1375779477429437300,
-                "LastEditTime": 1381217775887453400
+                "TimeStamp": 1382582347622022200,
+                "LastEditTime": 1383122705628252100
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -356,7 +86,7 @@
                 "TemplateName": "Default"
             }
         },
-        "GrayLookupTable.dds": {
+        "Textures/GrayLookupTable.dds": {
             "AssetType": "Texture",
             "Common": {
                 "Tags": "__NEW_ASSET__",
@@ -369,8 +99,8 @@
             },
             "File": {
                 "Hash": 4076469953,
-                "TimeStamp": 1375779477457438900,
-                "LastEditTime": 1381217775896453400
+                "TimeStamp": 1382582347619022200,
+                "LastEditTime": 1383122705634252700
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -383,7 +113,7 @@
                 "TemplateName": "Default"
             }
         },
-        "mouseNorm.TGA": {
+        "Textures/mouseNorm.TGA": {
             "AssetType": "Texture",
             "Common": {
                 "Tags": "__NEW_ASSET__",
@@ -396,8 +126,8 @@
             },
             "File": {
                 "Hash": 2445229178,
-                "TimeStamp": 1354274650000000000,
-                "LastEditTime": 1381217629279453400
+                "TimeStamp": 1382582347616022200,
+                "LastEditTime": 1383122705640253300
             },
             "Texture": {
                 "FileFormat": "TGA",
@@ -408,6 +138,411 @@
             },
             "Transformations": {
                 "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/ai.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3544608192,
+                "TimeStamp": 1383038221122379600,
+                "LastEditTime": 1383125437281654100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/ai.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3393078128,
+                "TimeStamp": 1382582342533022200,
+                "LastEditTime": 1383125438061654100
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/animation.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3712801940,
+                "TimeStamp": 1383038217078975300,
+                "LastEditTime": 1383125438079654100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/animation.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 568987230,
+                "TimeStamp": 1382582342535022200,
+                "LastEditTime": 1383125438094654100
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/physics.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1850133318,
+                "TimeStamp": 1383038230860353300,
+                "LastEditTime": 1383125438111654100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/physics.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2900936616,
+                "TimeStamp": 1382582342536022200,
+                "LastEditTime": 1383125438126654100
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/projectanarchy.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2687491902,
+                "TimeStamp": 1382582342537022200,
+                "LastEditTime": 1383122705661255400
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/vision.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1754928010,
+                "TimeStamp": 1383038227134980800,
+                "LastEditTime": 1383125438143654100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/PuzzlePieces/vision.png": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3043554654,
+                "TimeStamp": 1382582342538022200,
+                "LastEditTime": 1383125438159654100
+            },
+            "Texture": {
+                "FileFormat": "PNG",
+                "Width": 64,
+                "Height": 64,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Textures/Spotlight.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3308412089,
+                "TimeStamp": 1382582342540022200,
+                "LastEditTime": 1383122705654254700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "_Reference/Assets/bin/image/ai.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704538143100
+            },
+            "File": {
+                "LastEditTime": 1383122704538143100
+            }
+        },
+        "_Reference/Assets/bin/image/ai.png": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704538143100
+            },
+            "File": {
+                "LastEditTime": 1383122704538143100
+            }
+        },
+        "_Reference/Assets/bin/image/anarchy.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704538143100
+            },
+            "File": {
+                "LastEditTime": 1383122704538143100
+            }
+        },
+        "_Reference/Assets/bin/image/anarchy.png": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704538143100
+            },
+            "File": {
+                "LastEditTime": 1383122704538143100
+            }
+        },
+        "_Reference/Assets/bin/image/animStudio.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704538143100
+            },
+            "File": {
+                "LastEditTime": 1383122704538143100
+            }
+        },
+        "_Reference/Assets/bin/image/animStudio.png": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704538143100
+            },
+            "File": {
+                "LastEditTime": 1383122704538143100
+            }
+        },
+        "_Reference/Assets/bin/image/physics.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/bin/image/physics.png": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/bin/image/vision.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/bin/image/vision.png": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/Flare_4.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/Fog_Group.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/Glow.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/GrayLookupTable.dds": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
+            }
+        },
+        "_Reference/Assets/mouseNorm.TGA": {
+            "AssetType": "__deleted__",
+            "Common": {
+                "DeleteTime": 1383122704539143200
+            },
+            "File": {
+                "LastEditTime": 1383122704539143200
             }
         }
     },

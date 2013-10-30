@@ -12,6 +12,7 @@
 	import flash.events.TimerEvent;
 	import flash.xml.XMLDocument;
 	import flash.external.ExternalInterface;
+	import scaleform.gfx.Extensions;
 	
 	/**
 	 * PuzzleMain
@@ -21,7 +22,6 @@
 	{		
 		// static instance
 		private static var _instance:hpzMain = null;
-		
 		public static function get Instance():hpzMain
 		{
 			return _instance;
@@ -42,6 +42,7 @@
 		
 		private var m_score:int = 0;
 		
+		static var frame:int = 0;
 		public function get State():int
 		{
 			return m_state;
@@ -92,9 +93,10 @@
 			{
 				m_alignedFlag += 1 << i;
 			}	
+			
 			InitializePuzzlePieces();
         }
-		
+				
 		private function removeFromStage(event:Event):void
 		{
 			

@@ -114,7 +114,7 @@
             "Default": {
                 "pcdx9": {
                     "TextureTransformationRule": {
-                        "Compression": "Quality",
+                        "Compression": "Uncompressed",
                         "Usage": "Undefined",
                         "RemoveAlphaChannel": false,
                         "CreateMipMaps": true,
@@ -125,7 +125,7 @@
                 },
                 "ios": {
                     "TextureTransformationRule": {
-                        "Compression": "Quality",
+                        "Compression": "Uncompressed",
                         "Usage": "Undefined",
                         "RemoveAlphaChannel": false,
                         "CreateMipMaps": true,
@@ -136,10 +136,10 @@
                 },
                 "android": {
                     "TextureTransformationRule": {
-                        "Compression": "Quality",
+                        "Compression": "Uncompressed",
                         "Usage": "Undefined",
                         "RemoveAlphaChannel": false,
-                        "CreateMipMaps": true,
+                        "CreateMipMaps": false,
                         "DownscaleLevel": 0,
                         "MinimumSize": 0,
                         "MaximumSize": 0
@@ -147,7 +147,7 @@
                 },
                 "tizen": {
                     "TextureTransformationRule": {
-                        "Compression": "Quality",
+                        "Compression": "Uncompressed",
                         "Usage": "Undefined",
                         "RemoveAlphaChannel": false,
                         "CreateMipMaps": true,
